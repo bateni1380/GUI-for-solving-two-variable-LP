@@ -1,0 +1,31 @@
+E:\Project\c#\GraphOfFunction\GraphOfFunction\bin\Debug\GraphOfFunction.exe.config
+E:\Project\c#\GraphOfFunction\GraphOfFunction\bin\Debug\GraphOfFunction.exe
+E:\Project\c#\GraphOfFunction\GraphOfFunction\bin\Debug\GraphOfFunction.pdb
+E:\Project\c#\GraphOfFunction\GraphOfFunction\obj\Debug\GraphOfFunction.csprojResolveAssemblyReference.cache
+E:\Project\c#\GraphOfFunction\GraphOfFunction\obj\Debug\GraphOfFunction.FormFunction.resources
+E:\Project\c#\GraphOfFunction\GraphOfFunction\obj\Debug\GraphOfFunction.FormMy.resources
+E:\Project\c#\GraphOfFunction\GraphOfFunction\obj\Debug\GraphOfFunction.Properties.Resources.resources
+E:\Project\c#\GraphOfFunction\GraphOfFunction\obj\Debug\GraphOfFunction.csproj.GenerateResource.Cache
+E:\Project\c#\GraphOfFunction\GraphOfFunction\obj\Debug\GraphOfFunction.exe
+E:\Project\c#\GraphOfFunction\GraphOfFunction\obj\Debug\GraphOfFunction.pdb
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\bin\Debug\GraphOfFunction.exe.config
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.exe
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.pdb
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\bin\Debug\GraphOfFunction.exe
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\bin\Debug\GraphOfFunction.pdb
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.csprojResolveAssemblyReference.cache
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.FormFunction.resources
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.FormMy.resources
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.Properties.Resources.resources
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.csproj.GenerateResource.Cache
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\bin\Debug\GraphOfFunction.exe.config
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\bin\Debug\GraphOfFunction.exe
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\bin\Debug\GraphOfFunction.pdb
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.FormFunction.resources
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.FormMy.resources
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.Properties.Resources.resources
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.csproj.GenerateResource.cache
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.csproj.CoreCompileInputs.cache
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.exe
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.pdb
+C:\Users\Simon Half\Desktop\GraphOfFunction(EN)\GraphOfFunction\obj\Debug\GraphOfFunction.csprojAssemblyReference.cache

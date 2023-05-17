@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GraphOfFunction.FormFunction" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgIGAASQQwAQIAkCCDiACEGAAAAkgAQAAIAAAAIA=</HashCode>
+      <FileName>FormFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.FormMy" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAGACABAACBAAkAABCiAggACAgAAAMAEECEcAAIAAAQ=</HashCode>
+      <FileName>FormMy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.FunctionColor" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAAAAIAAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>FunctionColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.MyChar" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyChar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxTree" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAACQAAABAgAiAEAAATIAAABAAAAAAAAAAAI=</HashCode>
+      <FileName>SyntaxTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Add" Collapsed="true">
+    <Position X="6.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BinaryOperations\Add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.BinaryOperation" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEgAAAAAEAAAAAAAAAAAgAUAAIAEAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BinaryOperations\BinaryOperation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Div" Collapsed="true">
+    <Position X="8.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BinaryOperations\Div.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Mul" Collapsed="true">
+    <Position X="1.5" Y="7" Width="1.5" />
+    <InheritanceLine Type="GraphOfFunction.SyntaxNodes.BinaryOperation" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="6.312" />
+        <Point X="5.75" Y="6.625" />
+        <Point X="2.312" Y="6.625" />
+        <Point X="2.312" Y="7" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BinaryOperations\Mul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Pow" Collapsed="true">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <InheritanceLine Type="GraphOfFunction.SyntaxNodes.BinaryOperation" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="6.312" />
+        <Point X="5.75" Y="6.625" />
+        <Point X="4.125" Y="6.625" />
+        <Point X="4.125" Y="7" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BinaryOperations\Pow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Sub" Collapsed="true">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BinaryOperations\Sub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.BracketClosing" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BracketClosing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.BracketOpening" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\BracketOpening.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Abs" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Functions\Abs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Cos" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Functions\Cos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Ctg" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Functions\Ctg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Function" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAQEBAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Functions\Function.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Log" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="GraphOfFunction.SyntaxNodes.Function" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="3.812" />
+        <Point X="5.75" Y="4.125" />
+        <Point X="5" Y="4.125" />
+        <Point X="5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Functions\Log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Sin" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Functions\Sin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Tan" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Functions\Tan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Neg" Collapsed="true">
+    <Position X="1.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Neg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.UnaryOperation" Collapsed="true">
+    <Position X="1.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAEAAAAAAAAIAAgAGAAIAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\UnaryOperation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.Var" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\Var.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GraphOfFunction.SyntaxNodes.X" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNodes\X.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="GraphOfFunction.ISyntaxNode" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>SyntaxNode.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

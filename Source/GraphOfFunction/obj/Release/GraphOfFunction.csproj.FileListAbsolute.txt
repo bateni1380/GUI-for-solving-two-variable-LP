@@ -1,0 +1,9 @@
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\bin\Release\GraphOfFunction.exe.config
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\bin\Release\GraphOfFunction.exe
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\bin\Release\GraphOfFunction.pdb
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Release\GraphOfFunction.FormFunction.resources
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Release\GraphOfFunction.FormMy.resources
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Release\GraphOfFunction.Properties.Resources.resources
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Release\GraphOfFunction.csproj.GenerateResource.Cache
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Release\GraphOfFunction.exe
+E:\Project\c#\GraphOfFunction(EN)\GraphOfFunction\obj\Release\GraphOfFunction.pdb
