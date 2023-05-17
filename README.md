@@ -1,6 +1,6 @@
 # GUI-for-solving-two-variable-LP
 
-![Uploading Untitled Project.gif…]()
+![Present](https://github.com/bateni1380/GUI-for-solving-two-variable-LP/blob/main/Present.gif)
 
 This is an educational project that shows graphical method for solving two-variable LP...This program is written by C# and its a GUI that shows whats happening in a 2d visual graph
 
